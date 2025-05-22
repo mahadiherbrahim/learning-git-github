@@ -1,2 +1,3 @@
+
 // i'm from main 
-alert('I am from main');
+console.log('js updated from slider');
